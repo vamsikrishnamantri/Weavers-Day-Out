@@ -691,7 +691,7 @@ strong {
   BACKGROUND IMAGE SECTION        
 -----------------------------------------*/
 .section-bg-image {
-  background-image: url('../images/members/02.jpg');
+  background-color:#81b29a;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
